@@ -1,0 +1,3 @@
+[submodule "skins"]
+	path = skins
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins
